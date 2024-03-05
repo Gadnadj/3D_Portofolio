@@ -14,4 +14,24 @@ const Computers = () => {
   );
 };
 
+const ComputersCanvas = () => {
+  return;
+  <Canvas
+    frameloop='demand'
+    shadows
+    camera={{ position: [20, 35], fov: 25 }}
+    gl={{ preserveDrawingBuffer: true }}
+  >
+    <Suspense fallback={<CanvasLoader />}>
+      <OrbitControls
+        enableZoom={false}
+        maxAzimuthAngle={Math.PI / 2}
+        minAzimuthAngle={Math.PI / 2}
+      />
+      <Computers />
+    </Suspense>
+    <Preload all />
+  </Canvas>;
+};
+
 export default Computers;
