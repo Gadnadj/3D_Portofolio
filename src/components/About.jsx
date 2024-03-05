@@ -47,11 +47,13 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-7xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a 4th Student at Sami Shamoon college of engineering, I'm a
+        front-end developer with a passion for creating beautiful and functional
+        user interfaces. I have a strong foundation in web development, and I'm
+        always looking to learn new technologies and tools. I'm a quick learner
+        and a problem-solver, and I'm always looking for new challenges and
+        opportunities to grow. I'm use react and tailwindcss to build web
+        applications and user interaces.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
