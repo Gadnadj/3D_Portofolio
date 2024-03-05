@@ -23,6 +23,7 @@ const Navbar = () => {
             Gad <span className='sm:block hidden'>| Javascript Mastery</span>
           </p>
         </Link>
+        <p className='text-red-500'>asda </p>
       </div>
     </nav>
   );
