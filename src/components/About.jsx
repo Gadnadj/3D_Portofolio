@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-7xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a 4th Student at Sami Shamoon college of engineering, I'm a
         front-end developer with a passion for creating beautiful and functional
