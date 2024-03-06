@@ -229,7 +229,7 @@ const projects = [
     source_code_link: 'https://github.com/Gadnadj/3D_Portofolio',
   },
   {
-    name: 'Javis Smart Speaker',
+    name: 'Jarvis Smart Speaker',
     description:
       'Design and development of a smart connected speaker, featuring a custom ChatGPT-based language model with Elevenlabs voice transcription. My contributions spanned model creation, coding, and showcasing AI.',
     tags: [
