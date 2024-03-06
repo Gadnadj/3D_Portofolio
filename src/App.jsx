@@ -6,8 +6,10 @@ import {
   Hero,
   Navbar,
   Tech,
+  Study,
   Works,
   StarsCanvas,
+
 } from './components';
 
 const App = () => {
@@ -19,6 +21,7 @@ const App = () => {
           <Hero />
         </div>
         <About />
+        <Study />
         <Experience />
         <Tech />
         <Works />
