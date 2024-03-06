@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a 4th Student at Sami Shamoon college of engineering, I'm a
+        I'm a 4th year Student at Sami Shamoon college of engineering, I'm a
         front-end developer with a passion for creating beautiful and functional
         user interfaces. I have a strong foundation in web development, and I'm
         always looking to learn new technologies and tools. I'm a quick learner
