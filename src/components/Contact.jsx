@@ -81,45 +81,37 @@ const Contact = () => {
           className='mt-12 flex flex-col gap-8'
         >
           <label className='flex flex-col'>
-            <span className='text-white font-medium mb-4'>Your Name</span>
-            <input
-              type='text'
-              name='name'
-              value={form.name}
-              onChange={handleChange}
-              placeholder="What's your good name?"
-              className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
-            />
+            <span className='text-white font-medium text-2xl mb-4'>
+              Gad Nadjar
+            </span>
           </label>
           <label className='flex flex-col'>
-            <span className='text-white font-medium mb-4'>Your email</span>
-            <input
-              type='email'
-              name='email'
-              value={form.email}
-              onChange={handleChange}
-              placeholder="What's your web address?"
-              className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
-            />
+            <span className='text-white text-2xl font-medium mb-4'>
+              gadnadjar@gmail.com
+            </span>
           </label>
           <label className='flex flex-col'>
-            <span className='text-white font-medium mb-4'>Your Message</span>
-            <textarea
-              rows={7}
-              name='message'
-              value={form.message}
-              onChange={handleChange}
-              placeholder='What you want to say?'
-              className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
-            />
+            <span className='text-white font-medium text-2xl mb-4'>
+              0586305529
+            </span>
           </label>
-
-          <button
-            type='submit'
-            className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'
+          <a
+            href='https://github.com/Gadnadj'
+            target='_blank'
+            rel='noopener noreferrer'
+            className='text-white font-medium mb-4 text-2xl hover:text-purple-500'
           >
-            {loading ? 'Sending...' : 'Send'}
-          </button>
+            <span>https://github.com/Gadnadj</span>
+          </a>
+
+          <a
+            href='https://www.linkedin.com/in/gad-nadjar-810028241/'
+            target='_blank'
+            rel='noopener noreferrer'
+            className='text-white font-medium mb-4 text-2xl hover:text-purple-500'
+          >
+            <span>https://www.linkedin.com/in/gad-nadjar-810028241/</span>
+          </a>
         </form>
       </motion.div>
 
