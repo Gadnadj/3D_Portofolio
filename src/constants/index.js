@@ -164,7 +164,7 @@ const experiences = [
 
 const studies = [
   {
-    title: 'BSc in Computer Science',
+    title: 'BSc in Software Engineering',
     company_name: 'Sami Shamon College',
     icon: sce,
     iconBg: '#383E56',
