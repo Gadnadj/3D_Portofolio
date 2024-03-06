@@ -19,9 +19,12 @@ import {
   sce,
   starbucks,
   tesla,
+  tsahal,
+  cafe,
   shopify,
   carrent,
   jobit,
+  chouchou,
   tripguide,
   threejs,
 } from '../assets';
@@ -119,7 +122,7 @@ const experiences = [
   {
     title: 'Shift Manager',
     company_name: 'Chouchou',
-    icon: starbucks,
+    icon: chouchou,
     iconBg: '#383E56',
     date: 'January 2014 - January 2019',
     points: [
@@ -132,8 +135,8 @@ const experiences = [
   },
   {
     title: 'Staff Sergeant Logistic',
-    company_name: 'Tsahak',
-    icon: tesla,
+    company_name: 'Tsahal',
+    icon: tsahal,
     iconBg: '#E6DEDD',
     date: 'April 2016 - January 2019',
     points: [
@@ -146,7 +149,7 @@ const experiences = [
   {
     title: 'Shift Manager + Barista + Waiter',
     company_name: 'Cafe Gan Sipur',
-    icon: shopify,
+    icon: cafe,
     iconBg: '#383E56',
     date: 'Jan 2019 - Now',
     points: [
@@ -171,7 +174,7 @@ const studies = [
     company_name: 'Meta',
     icon: meta,
     iconBg: '#E6DEDD',
-    date: 'April 2016 - January 2019',
+    date: 'February 2024',
     points: [],
   },
 ];
