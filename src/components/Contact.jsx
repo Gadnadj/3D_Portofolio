@@ -99,7 +99,7 @@ const Contact = () => {
             href='https://github.com/Gadnadj'
             target='_blank'
             rel='noopener noreferrer'
-            className='text-white font-medium mb-4 text-xl sm:text-2xl hover:text-purple-500'
+            className='text-white font-medium mb-4 text-xl sm:text-2xl hover:text-purple-500 break-words'
           >
             <span>https://github.com/Gadnadj</span>
           </a>
@@ -108,7 +108,7 @@ const Contact = () => {
             href='https://www.linkedin.com/in/gad-nadjar-810028241/'
             target='_blank'
             rel='noopener noreferrer'
-            className='text-white font-medium mb-4 text-xl sm:text-2xl hover:text-purple-500'
+            className='text-white font-medium mb-4 text-xl sm:text-2xl hover:text-purple-500 break-words'
           >
             <span>https://www.linkedin.com/in/gad-nadjar-810028241/</span>
           </a>
