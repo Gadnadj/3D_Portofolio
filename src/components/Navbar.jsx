@@ -19,7 +19,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-10 h-9 object-contain rounded-full' />
+          <img src={logo} alt='logo' className='w-16 h-14 object-contain rounded-full' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>
             Gad &nbsp;<span className='sm:block hidden'>| Front End Developer</span>
           </p>
