@@ -24,6 +24,9 @@ import {
   jobit,
   chouchou,
   tripguide,
+  MyTrip,
+  Portofolio,
+  Jarvis,
 } from '../assets';
 
 export const navLinks = [
@@ -180,68 +183,72 @@ const studies = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'MyTrip',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'Travelers social network project led by me, offering a platform for users to connect, share, and discover travel experiences. Enhanced skills in JavaScript, HTML, CSS, React, Node, and Express, focusing on UI development and server logic.',
     tags: [
       {
-        name: 'react',
+        name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'Mongodb',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'Node.js',
         color: 'pink-text-gradient',
       },
+      {
+        name: 'Css',
+        color: 'orange-text-gradient',
+      },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    image: MyTrip,
+    source_code_link: 'https://github.com/Gadnadj/MyTrip',
   },
   {
-    name: 'Job IT',
+    name: 'Portofolio',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'Designed and developed a personal portfolio website showcasing my professional experience, academic background, and various projects. Developed using React, Tailwind CSS, and Three.js for integrating 3D elements.',
     tags: [
       {
-        name: 'react',
+        name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'Tailwind',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'Three.js',
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
-    source_code_link: 'https://github.com/',
+    image: Portofolio,
+    source_code_link: 'https://github.com/Gadnadj/3D_Portofolio',
   },
   {
-    name: 'Trip Guide',
+    name: 'Javis Smart Speaker',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'Design and development of a smart connected speaker, featuring a custom ChatGPT-based language model with Elevenlabs voice transcription. My contributions spanned model creation, coding, and showcasing AI.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'Css',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'HTML',
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
-    source_code_link: 'https://github.com/',
+    image: Jarvis,
+    source_code_link: 'https://github.com/Gadnadj/SmartSpeaker',
   },
 ];
 
-export { services, technologies, experiences, studies, testimonials, projects };
+export { services, technologies, experiences, studies, projects };

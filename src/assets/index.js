@@ -36,6 +36,9 @@ import cafe from './company/cafe.png';
 import carrent from './carrent.png';
 import jobit from './jobit.png';
 import tripguide from './tripguide.png';
+import MyTrip from './MyTrip.png';
+import Portofolio from './Portofolio.png';
+import Jarvis from './Jarvis.png';
 
 export {
   logo,
@@ -73,4 +76,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  MyTrip,
+  Portofolio,
+  Jarvis,
 };
