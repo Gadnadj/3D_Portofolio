@@ -27,7 +27,7 @@ const StudyCard = ({ studie }) => {
           <img
             src={studie.icon}
             alt={studie.company_name}
-            className='w-[60%] h-[60%] object-contain'
+            className='w-[100%] h-[100%] object-contain rounded-full '
           />
         </div>
       }
@@ -61,10 +61,10 @@ const Study = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-        My Journey so far
+          My Journey so far
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-        Educational & Certificats Background
+          Educational & Certificats Background
         </h2>
       </motion.div>
 

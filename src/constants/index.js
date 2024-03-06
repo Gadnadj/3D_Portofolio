@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   meta,
+  sce,
   starbucks,
   tesla,
   shopify,
@@ -160,16 +161,10 @@ const studies = [
   {
     title: 'BSc in Computer Science',
     company_name: 'Sami Shamon College',
-    icon: starbucks,
+    icon: sce,
     iconBg: '#383E56',
     date: 'April 2020 - October 2024',
-    points: [
-      'Responsible for all restaurant operations.',
-      'Overseeing the kitchen.',
-      'Coordinating room service.',
-      'Managing the bar.',
-      'Handling orders and supplies.',
-    ],
+    points: [],
   },
   {
     title: 'Front End Developer Certifications',
@@ -177,12 +172,7 @@ const studies = [
     icon: meta,
     iconBg: '#E6DEDD',
     date: 'April 2016 - January 2019',
-    points: [
-      'Gained substantial experience in logistics management on a military base.',
-      'Duties involved planning, coordinating, and overseeing materials orders.',
-      'Handled supplies from other bases.',
-      'Role honed organization, time management, and decision-making skills.',
-    ],
+    points: [],
   },
 ];
 
