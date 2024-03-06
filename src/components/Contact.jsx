@@ -81,17 +81,17 @@ const Contact = () => {
           className='mt-12 flex flex-col gap-8'
         >
           <label className='flex flex-col'>
-            <span className='text-white font-medium text-2xl mb-4'>
+            <span className='text-white font-medium text-2xl mb-4 text-xl sm:text-2xl'>
               Gad Nadjar
             </span>
           </label>
           <label className='flex flex-col'>
-            <span className='text-white text-2xl font-medium mb-4'>
+            <span className='text-white text-2xl font-medium mb-4 text-xl sm:text-2xl'>
               gadnadjar@gmail.com
             </span>
           </label>
           <label className='flex flex-col'>
-            <span className='text-white font-medium text-2xl mb-4'>
+            <span className='text-white font-medium text-2xl mb-4 text-xl sm:text-2xl '>
               0586305529
             </span>
           </label>
