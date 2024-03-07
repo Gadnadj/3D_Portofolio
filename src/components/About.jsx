@@ -52,7 +52,7 @@ const About = () => {
         beautiful and functional user interfaces. I have a strong foundation in
         web development, and I'm always looking to learn new technologies and
         tools. I'm a quick learner and a problem-solver, and I'm always looking
-        for new challenges and opportunities to grow. I'm use react and
+        for new challenges and opportunities to grow. I use react and
         tailwindcss to build web applications and user interaces.
       </motion.p>
 
