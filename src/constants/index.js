@@ -172,11 +172,11 @@ const studies = [
     points: [],
   },
   {
-    title: 'Front End Developer Certifications',
+    title: 'Meta Front End Developer Certificate',
     company_name: 'Meta',
     icon: meta,
     iconBg: '#E6DEDD',
-    date: 'February 2024',
+    date: 'March 2024',
     points: [],
   },
 ];
