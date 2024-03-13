@@ -5,10 +5,8 @@ import {
   web,
   javascript,
   typescript,
-  java,
   c,
   cplusplus,
-  next,
   python,
   html,
   css,
@@ -16,7 +14,7 @@ import {
   tailwind,
   nodejs,
   mongodb,
-  git,
+  next,
   figma,
   meta,
   sce,
@@ -29,7 +27,6 @@ import {
   MyTrip,
   Portofolio,
   Jarvis,
-  rentalcars,
 } from '../assets';
 
 export const navLinks = [
@@ -80,10 +77,9 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: 'TypeScript',
+    name: 'next',
     icon: next,
   },
-
   {
     name: 'Tailwind CSS',
     icon: tailwind,
@@ -100,7 +96,6 @@ const technologies = [
     name: 'python',
     icon: python,
   },
-
   {
     name: 'Node JS',
     icon: nodejs,
@@ -118,11 +113,6 @@ const technologies = [
     name: 'C++',
     icon: cplusplus,
   },
-  {
-    name: 'C++',
-    icon: java,
-  },
-
 
   {
     name: 'figma',
@@ -192,31 +182,6 @@ const studies = [
 ];
 
 const projects = [
-  {
-    name: 'Rental Cars',
-    description:
-      'Designed and developed a car rental website aimed at simplifying the process of searching and selecting vehicles based on specific criteria such as brand, model, year, and fuel type. This project was built using React, Next.js, TypeScript, and Tailwind CSS.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Next.js',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'TypeScript',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'Tailwind',
-        color: 'orange-text-gradient',
-      },
-    ],
-    image: rentalcars,
-    source_code_link: 'https://github.com/Gadnadj/rentalcars',
-  },
   {
     name: 'MyTrip',
     description:
