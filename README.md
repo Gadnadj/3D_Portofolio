@@ -1,19 +1,19 @@
 # Learn more about me and my projects at [my website](http://www.gad-nadjar.com).
 
-![Home](/public/images/home.png)
 # Home
+![Home](/public/images/home.png)
 
+# About
 ![about](/public/images/about.png)
-*About*
 
+# Educational Background
 ![study](/public/images/study.png)
-*Study*
 
+# Works
 ![works](/public/images/works.png)
-*Works*
 
+# Skills
 ![skills](/public/images/skills.png)
-*Skills*
 
+#Contact
 ![contact](/public/images/contact.png)
-*Contact*
