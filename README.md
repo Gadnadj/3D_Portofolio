@@ -1,7 +1,7 @@
 # Learn more about me and my projects at [my website](http://www.gad-nadjar.com).
 
 ![Home](/public/images/home.png)
-*Home*
+# Home
 
 ![about](/public/images/about.png)
 *About*
