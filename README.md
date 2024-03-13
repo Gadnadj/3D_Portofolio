@@ -1,6 +1,6 @@
 ![Home](/public/images/home.png)
 ![about](/public/images/about.png)
 ![study](/public/images/study.png)
-![work](/public/images/work.png)
+![works](/public/images/works.png)
 ![skills](/public/images/skills.png)
 ![contact](/public/images/contact.png)
