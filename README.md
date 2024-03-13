@@ -15,5 +15,5 @@
 # Skills
 ![skills](/public/images/skills.png)
 
-#Contact
+# Contact
 ![contact](/public/images/contact.png)
