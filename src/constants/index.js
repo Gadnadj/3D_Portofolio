@@ -5,8 +5,10 @@ import {
   web,
   javascript,
   typescript,
+  java,
   c,
   cplusplus,
+  next,
   python,
   html,
   css,
@@ -66,12 +68,8 @@ const services = [
 
 const technologies = [
   {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
+    name: 'React JS',
+    icon: reactjs,
   },
   {
     name: 'JavaScript',
@@ -82,14 +80,36 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: 'React JS',
-    icon: reactjs,
+    name: 'TypeScript',
+    icon: next,
   },
 
   {
     name: 'Tailwind CSS',
     icon: tailwind,
   },
+  {
+    name: 'HTML 5',
+    icon: html,
+  },
+  {
+    name: 'CSS 3',
+    icon: css,
+  },
+  {
+    name: 'python',
+    icon: python,
+  },
+
+  {
+    name: 'Node JS',
+    icon: nodejs,
+  },
+  {
+    name: 'MongoDB',
+    icon: mongodb,
+  },
+
   {
     name: 'C',
     icon: c,
@@ -99,16 +119,8 @@ const technologies = [
     icon: cplusplus,
   },
   {
-    name: 'python',
-    icon: python,
-  },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  },
-  {
-    name: 'MongoDB',
-    icon: mongodb,
+    name: 'C++',
+    icon: java,
   },
 
   {
