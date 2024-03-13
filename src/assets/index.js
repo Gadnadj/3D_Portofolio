@@ -39,6 +39,7 @@ import tripguide from './tripguide.png';
 import MyTrip from './MyTrip.png';
 import Portofolio from './Portofolio.png';
 import Jarvis from './Jarvis.png';
+import rentalcars from './rentalcars.png';
 
 export {
   logo,
@@ -79,4 +80,5 @@ export {
   MyTrip,
   Portofolio,
   Jarvis,
+  rentalcars,
 };
