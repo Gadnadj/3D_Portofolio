@@ -16,14 +16,12 @@ import {
   mongodb,
   next,
   figma,
+  java,
   meta,
   sce,
   tsahal,
   cafe,
-  carrent,
-  jobit,
   chouchou,
-  tripguide,
   MyTrip,
   Portofolio,
   Jarvis,
@@ -116,8 +114,8 @@ const technologies = [
   },
 
   {
-    name: 'figma',
-    icon: figma,
+    name: 'java',
+    icon: java,
   },
 ];
 
