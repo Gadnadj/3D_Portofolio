@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a 4th year Software Engineering Student at Sami Shamoon College of
-        Engineering, I'm a front-end developer with a passion for creating
+        Engineering, I'm a full stack developer with a passion for creating
         beautiful and functional user interfaces. I have a strong foundation in
         web development, and I'm always looking to learn new technologies and
         tools. I'm a quick learner and a problem-solver, and I'm always looking
