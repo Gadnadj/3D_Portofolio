@@ -182,29 +182,25 @@ const studies = [
 
 const projects = [
   {
-    name: 'Rental Cars',
+    name: 'Jarvis Smart Speaker',
     description:
-      'Designed and developed a car rental website aimed at simplifying the process of searching and selecting vehicles based on specific criteria such as brand, model, year, and fuel type. This project was built using React, Next.js, TypeScript, and Tailwind CSS.',
+      'Design and development of a smart connected speaker, featuring a custom ChatGPT-based language model with Elevenlabs voice transcription. My contributions spanned model creation, coding, and showcasing AI.',
     tags: [
       {
         name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Next.js',
+        name: 'Css',
         color: 'green-text-gradient',
       },
       {
-        name: 'TypeScript',
+        name: 'HTML',
         color: 'pink-text-gradient',
       },
-      {
-        name: 'Tailwind',
-        color: 'orange-text-gradient',
-      },
     ],
-    image: rentalcars,
-    source_code_link: 'https://github.com/Gadnadj/rentalcars',
+    image: Jarvis,
+    source_code_link: 'https://github.com/Gadnadj/SmartSpeaker',
   },
   {
     name: 'MyTrip',
@@ -231,6 +227,33 @@ const projects = [
     image: MyTrip,
     source_code_link: 'https://github.com/Gadnadj/MyTrip',
   },
+
+  {
+    name: 'Rental Cars',
+    description:
+      'Designed and developed a car rental website aimed at simplifying the process of searching and selecting vehicles based on specific criteria such as brand, model, year, and fuel type. This project was built using React, Next.js, TypeScript, and Tailwind CSS.',
+    tags: [
+      {
+        name: 'React',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Next.js',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'TypeScript',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Tailwind',
+        color: 'orange-text-gradient',
+      },
+    ],
+    image: rentalcars,
+    source_code_link: 'https://github.com/Gadnadj/rentalcars',
+  },
+
   {
     name: 'Portofolio',
     description:
@@ -251,27 +274,6 @@ const projects = [
     ],
     image: Portofolio,
     source_code_link: 'https://github.com/Gadnadj/3D_Portofolio',
-  },
-  {
-    name: 'Jarvis Smart Speaker',
-    description:
-      'Design and development of a smart connected speaker, featuring a custom ChatGPT-based language model with Elevenlabs voice transcription. My contributions spanned model creation, coding, and showcasing AI.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Css',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'HTML',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: Jarvis,
-    source_code_link: 'https://github.com/Gadnadj/SmartSpeaker',
   },
 ];
 
