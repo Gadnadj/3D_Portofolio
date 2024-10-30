@@ -47,13 +47,10 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a 4th year Software Engineering Student at Sami Shamoon College of
-        Engineering, I'm a full stack developer with a passion for creating
-        beautiful and functional user interfaces. I have a strong foundation in
-        web development, and I'm always looking to learn new technologies and
-        tools. I'm a quick learner and a problem-solver, and I'm always looking
-        for new challenges and opportunities to grow. I use react and
-        tailwindcss to build web applications and user interaces.
+        I am a graduate with a Bachelor of Science in Software Engineering, specializing as a full stack developer.
+        I have a passion for creating beautiful and functional user interfaces. With a strong foundation in web development,
+        I am always eager to explore new technologies and tools. As a quick learner and problem-solver,
+        I continually seek new challenges and opportunities for professional growth.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
