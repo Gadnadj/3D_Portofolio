@@ -105,12 +105,12 @@ const Contact = () => {
           </a>
 
           <a
-            href='https://www.linkedin.com/in/gad-nadjar-810028241/'
+            href='https://www.linkedin.com/in/gad-nadjar/'
             target='_blank'
             rel='noopener noreferrer'
             className='text-white font-medium mb-4 text-xl sm:text-2xl hover:text-purple-500 break-words'
           >
-            <span>https://www.linkedin.com/in/gad-nadjar-810028241/</span>
+            <span>https://www.linkedin.com/in/gad-nadjar/</span>
           </a>
         </form>
       </motion.div>
