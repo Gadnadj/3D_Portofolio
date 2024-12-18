@@ -192,7 +192,7 @@ const projects = [
   {
     name: 'Jarvis Smart Speaker',
     description:
-      'Design and development of a smart connected speaker, featuring a custom ChatGPT-based language model with Elevenlabs voice transcription. My contributions spanned model creation, coding, and showcasing AI.',
+      'Designed and developed a smart connected speaker featuring a custom language model based on ChatGPT, incorporating Elevenlabs voice transcription. Utilized Python, React, Tailwind, a Raspberry Pi 3, and the Google AIY kit.',
     tags: [
       {
         name: 'React',
