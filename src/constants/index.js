@@ -178,6 +178,14 @@ const studies = [
     date: 'March 2024',
     points: [],
   },
+  {
+    title: 'Meta Back End Developer Certificate',
+    company_name: 'Meta',
+    icon: meta,
+    iconBg: '#E6DEDD',
+    date: 'December 2024',
+    points: [],
+  },
 ];
 
 const projects = [
