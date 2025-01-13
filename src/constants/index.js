@@ -26,6 +26,8 @@ import {
   Portofolio,
   Jarvis,
   rentalcars,
+  Airbnb,
+  Disney
 } from '../assets';
 
 export const navLinks = [
@@ -234,6 +236,58 @@ const projects = [
     ],
     image: MyTrip,
     source_code_link: 'https://github.com/Gadnadj/MyTrip',
+  },
+
+  {
+    name: 'Airbnb Clone',
+    description:
+      'Developed a full-stack web application replicating the core functionalities of Airbnb, enabling users to create property listings, search for accommodations, and manage bookings seamlessly.',
+    tags: [
+      {
+        name: 'React',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Typescript',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Tailwind',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Node.js',
+        color: 'orange-text-gradient',
+      },
+    ],
+    image: Airbnb,
+    source_code_link: 'https://github.com/Gadnadj/Airbnb-Frontend',
+  },
+
+  {
+    name: 'Disney Clone',
+    description:
+      'Designed and developed a modern, responsive web application replicating the Disney+ user interface with attention to detail and visual appeal.',
+    tags: [
+      {
+        name: 'React',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Typescript',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Tailwind',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'API',
+        color: 'orange-text-gradient',
+      },
+    ],
+    image: Disney,
+    source_code_link: 'https://github.com/Gadnadj/Disney',
   },
 
   {

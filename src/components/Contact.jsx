@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import emailjs from '@emailjs/browser';
 
@@ -15,8 +15,10 @@ const Contact = () => {
     message: '',
   });
 
+  // eslint-disable-next-line no-unused-vars
   const [loading, setLoading] = useState(false);
 
+  // eslint-disable-next-line no-unused-vars
   const handleChange = (e) => {
     const { target } = e;
     const { name, value } = target;
