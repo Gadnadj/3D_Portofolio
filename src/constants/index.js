@@ -201,12 +201,12 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'Css',
-        color: 'green-text-gradient',
+        name: 'Tailwind',
+        color: 'pink-text-gradient',
       },
       {
-        name: 'HTML',
-        color: 'pink-text-gradient',
+        name: 'Python',
+        color: 'green-text-gradient',
       },
     ],
     image: Jarvis,
@@ -227,7 +227,7 @@ const projects = [
       },
       {
         name: 'Node.js',
-        color: 'pink-text-gradient',
+        color: 'yellow-text-gradient',
       },
       {
         name: 'Css',
@@ -249,7 +249,7 @@ const projects = [
       },
       {
         name: 'Typescript',
-        color: 'green-text-gradient',
+        color: 'red-text-gradient',
       },
       {
         name: 'Tailwind',
@@ -257,7 +257,7 @@ const projects = [
       },
       {
         name: 'Node.js',
-        color: 'orange-text-gradient',
+        color: 'yellow-text-gradient',
       },
     ],
     image: Airbnb,
@@ -275,7 +275,7 @@ const projects = [
       },
       {
         name: 'Typescript',
-        color: 'green-text-gradient',
+        color: 'red-text-gradient',
       },
       {
         name: 'Tailwind',
@@ -283,7 +283,7 @@ const projects = [
       },
       {
         name: 'API',
-        color: 'orange-text-gradient',
+        color: 'purple-text-gradient',
       },
     ],
     image: Disney,
@@ -305,11 +305,11 @@ const projects = [
       },
       {
         name: 'TypeScript',
-        color: 'pink-text-gradient',
+        color: 'red-text-gradient',
       },
       {
         name: 'Tailwind',
-        color: 'orange-text-gradient',
+        color: 'pink-text-gradient',
       },
     ],
     image: rentalcars,
@@ -327,11 +327,11 @@ const projects = [
       },
       {
         name: 'Tailwind',
-        color: 'green-text-gradient',
+        color: 'pink-text-gradient',
       },
       {
         name: 'Three.js',
-        color: 'pink-text-gradient',
+        color: 'orange-text-gradient',
       },
     ],
     image: Portofolio,
