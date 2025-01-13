@@ -300,13 +300,14 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'Next.js',
-        color: 'green-text-gradient',
-      },
-      {
         name: 'TypeScript',
         color: 'red-text-gradient',
       },
+      {
+        name: 'Next.js',
+        color: 'green-text-gradient',
+      },
+
       {
         name: 'Tailwind',
         color: 'pink-text-gradient',
