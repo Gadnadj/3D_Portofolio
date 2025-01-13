@@ -43,6 +43,9 @@ import Portofolio from './Portofolio.png';
 import Jarvis from './Jarvis.png';
 import rentalcars from './rentalcars.png';
 
+import Disney from './Disney.png';
+import Airbnb from './Airbnb.png';
+
 export {
   logo,
   backend,
@@ -85,4 +88,6 @@ export {
   Portofolio,
   Jarvis,
   rentalcars,
+  Disney,
+  Airbnb,
 };
