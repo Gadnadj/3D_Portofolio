@@ -283,7 +283,7 @@ const projects = [
       },
       {
         name: 'API',
-        color: 'purple-text-gradient',
+        color: 'violet-text-gradient',
       },
     ],
     image: Disney,
