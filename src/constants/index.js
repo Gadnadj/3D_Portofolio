@@ -222,17 +222,18 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'Mongodb',
-        color: 'green-text-gradient',
+        name: 'Css',
+        color: 'orange-text-gradient',
       },
       {
         name: 'Node.js',
         color: 'yellow-text-gradient',
       },
       {
-        name: 'Css',
-        color: 'orange-text-gradient',
+        name: 'Mongodb',
+        color: 'green-text-gradient',
       },
+
     ],
     image: MyTrip,
     source_code_link: 'https://github.com/Gadnadj/MyTrip',
