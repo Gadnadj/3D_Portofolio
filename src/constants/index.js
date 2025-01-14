@@ -266,31 +266,31 @@ const projects = [
     source_code_link: 'https://github.com/Gadnadj/Airbnb-Frontend',
   },
 
-  {
-    name: 'Disney Clone',
-    description:
-      'Designed and developed a modern, responsive web application replicating the Disney+ user interface with attention to detail and visual appeal.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Typescript',
-        color: 'red-text-gradient',
-      },
-      {
-        name: 'Tailwind',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'API',
-        color: 'violet-text-gradient',
-      },
-    ],
-    image: Disney,
-    source_code_link: 'https://github.com/Gadnadj/Disney',
-  },
+  // {
+  //   name: 'Disney Clone',
+  //   description:
+  //     'Designed and developed a modern, responsive web application replicating the Disney+ user interface with attention to detail and visual appeal.',
+  //   tags: [
+  //     {
+  //       name: 'React',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'Typescript',
+  //       color: 'red-text-gradient',
+  //     },
+  //     {
+  //       name: 'Tailwind',
+  //       color: 'pink-text-gradient',
+  //     },
+  //     {
+  //       name: 'API',
+  //       color: 'violet-text-gradient',
+  //     },
+  //   ],
+  //   image: Disney,
+  //   source_code_link: 'https://github.com/Gadnadj/Disney',
+  // },
 
   {
     name: 'Rental Cars',
@@ -319,27 +319,27 @@ const projects = [
     source_code_link: 'https://github.com/Gadnadj/rentalcars',
   },
 
-  {
-    name: 'Portofolio',
-    description:
-      'Designed and developed a personal portfolio website showcasing my professional experience, academic background, and various projects. Developed using React, Tailwind CSS, and Three.js for integrating 3D elements.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Tailwind',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'Three.js',
-        color: 'orange-text-gradient',
-      },
-    ],
-    image: Portofolio,
-    source_code_link: 'https://github.com/Gadnadj/3D_Portofolio',
-  },
+  // {
+  //   name: 'Portofolio',
+  //   description:
+  //     'Designed and developed a personal portfolio website showcasing my professional experience, academic background, and various projects. Developed using React, Tailwind CSS, and Three.js for integrating 3D elements.',
+  //   tags: [
+  //     {
+  //       name: 'React',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'Tailwind',
+  //       color: 'pink-text-gradient',
+  //     },
+  //     {
+  //       name: 'Three.js',
+  //       color: 'orange-text-gradient',
+  //     },
+  //   ],
+  //   image: Portofolio,
+  //   source_code_link: 'https://github.com/Gadnadj/3D_Portofolio',
+  // },
 ];
 
 export { services, technologies, experiences, studies, projects };
